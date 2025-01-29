@@ -85,9 +85,3 @@ suite('Functional Tests', () => {
             })
     })
 });
-
-/*
-
-Translation with empty text: POST request to /api/translate
-Translation with text that needs no translation: POST request to /api/translate
-*/
